@@ -2,7 +2,7 @@
 ID = {"martin" : 1234568, "adam" :1234  }
 
 
-vstup1 = input()
+vstup1 = input("jmeno: ")
 def ID(): 
     if ID == True :
         print("zadejte heslo: ") # type: ignore
@@ -12,7 +12,7 @@ def ID():
 
 vstup2 = input(int("heslo: "))
 def ID():
-    if False:
+    if ID == False:
         print("zadali ste spatne heslo")
 
 if  vstup1 == True and vstup2 == True:
