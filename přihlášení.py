@@ -3,16 +3,16 @@ ID = {"martin" : 1234568, "adam" :1234  }
 
 
 vstup1 = input("jmeno: ")
-def ID(): 
-    if ID == True :
+if jmeno in ID
+    elif jmeno == True :
         print("zadejte heslo: ") # type: ignore
-    elif False:
+elif jmeno == False:
         	print("zadane spatne jmeno ")
 
 
 vstup2 = input(int("heslo: "))
-def ID():
-    if ID == False:
+if value in jmeno
+    elif ID == False:
         print("zadali ste spatne heslo")
 
 if  vstup1 == True and vstup2 == True:
